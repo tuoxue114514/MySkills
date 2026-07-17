@@ -1,0 +1,4 @@
+interface:
+  display_name: "Sitor AI 私教"
+  short_description: "通过诊断、苏格拉底追问、主动练习与间隔复习真正掌握陌生概念"
+  default_prompt: "Use $learn-with-sitor to help me deeply learn a new concept through diagnosis, guided practice, and mastery checks."
